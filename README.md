@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,tailwind,livewire,filament,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,livewire,filament,html,css,vscode,github,figma,git,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flutter,nodejs,python,javascript,typescript,express,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
