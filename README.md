@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **AgileTeknik**
  
- 🌱 I’m currently learning **Python and GO**
+ 🌱 I’m currently learning **Python**
 
 💬 Ask me about **Laravel, Livewire, Filament, ... or anything [here](https://github.com/MaritsIkmalY/MaritsIkmalY/issues)**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,livewire,filament,html,css,vscode,github,figma,git,tailwind" />
-    <img src="https://skillicons.dev/icons?i=flutter,nodejs,python,javascript,typescript,express,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,nodejs,python,javascript,typescript,express,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
