@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **AgileTeknik**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Golang**
 
 💬 Ask me about **Laravel, Livewire, Filament, ... or anything [here](https://github.com/MaritsIkmalY/MaritsIkmalY/issues)**
 
